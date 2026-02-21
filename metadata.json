@@ -1,0 +1,5 @@
+{
+  "name": "Startup Name Generator",
+  "description": "Generate creative startup names based on an industry.",
+  "requestFramePermissions": []
+}
